@@ -1,0 +1,39 @@
+
+
+npm install nodemon -g
+npm i -D typescript
+
+nodemon app.ts или npm run dev
+
+
+
+
+ARCHITECTURE
+
+https://ctrly.blog/nodejs-layered-architecture/
+https://merlino.agency/blog/clean-architecture-in-express-js-applications
+https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf#architecture
+https://www.codementor.io/@evanbechtol/node-service-oriented-architecture-12vjt9zs9i
+https://github.com/evanbechtol/bare-express
+
+TYPESCRIPT
+
+https://nodejs.dev/en/learn/nodejs-with-typescript/
+https://www.section.io/engineering-education/how-to-create-a-simple-rest-api-using-typescript-and-nodejs/
+
+
+
+https://dev.to/japhernandez/clean-architecture-with-nodejs-typescript-and-mongo-3ene
+
+
+TYPESCRIPT + ARCHITECTURE !!! 
+https://dev.to/japhernandez/clean-architecture-with-nodejs-typescript-and-mongo-3ene
+
+
+AUTHENTIFICATION
+https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf#architecture
+https://dev.to/santypk4/you-don-t-need-passport-js-guide-to-node-js-authentication-26ig
+
+
+Use cases = Services = Businness logic
+Dal = Model = Data access layer
